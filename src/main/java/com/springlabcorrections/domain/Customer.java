@@ -23,7 +23,7 @@ public class Customer {
 	public void setEmail(String email) {
 		this.email = email;
 	}
-	
+	//edit for demo
 	@Override
 	public String toString() {
 		return getId() + " : " + getName() + " : " + getEmail();
